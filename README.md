@@ -4,7 +4,8 @@ Sebuah aplikasi web terintegrasi yang dirancang untuk mendigitalisasi alur penca
 
 ## 📸 Antarmuka Aplikasi
 *(Tambahkan URL gambar/screenshot aplikasi Anda di sini. Anda bisa *drag-and-drop* gambar langsung ke editor GitHub untuk mendapatkan linknya)*
-![Dashboard Screenshot] [Uploading Screenshot 2026-09-20 202127.png…]()
+![Dashboard Screenshot] ![Uploading Screenshot 2026-09-20 202127.png…]()
+
 
 
 ## 💻 Tech Stack
