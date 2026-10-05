@@ -4,7 +4,7 @@ Sebuah aplikasi web terintegrasi yang dirancang untuk mendigitalisasi alur penca
 
 ## 📸 Antarmuka Aplikasi
 *(Tambahkan URL gambar/screenshot aplikasi Anda di sini. Anda bisa *drag-and-drop* gambar langsung ke editor GitHub untuk mendapatkan linknya)*
-![Dashboard Screenshot](https://link-gambar-anda.com/dashboard.png)
+![Dashboard Screenshot]([https://link-gambar-anda.com/dashboard.png](https://1drv.ms/i/c/c13297313ba26a29/IQBtkv2LnBeuSp_RV06G4pPfAfA6bT730OwC2os2qkuqBhc?e=aBMRiR))
 
 ## 💻 Tech Stack
 - **Framework:** Laravel 
