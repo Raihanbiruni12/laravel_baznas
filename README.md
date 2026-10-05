@@ -1,10 +1,11 @@
-# 🌙 Sistem Informasi Pendistribusian Zakat
+<img width="1883" height="901" alt="Screenshot 2026-09-20 202127" src="https://github.com/user-attachments/assets/39b7d503-1fd5-4426-a6e6-7deca2043e6a" /># 🌙 Sistem Informasi Pendistribusian Zakat
 
 Sebuah aplikasi web terintegrasi yang dirancang untuk mendigitalisasi alur pencatatan dan mengoptimalkan pelaporan operasional distribusi zakat. Sistem ini mempermudah amil zakat dalam mengelola data muzakki (pemberi zakat), mustahik (penerima zakat), serta kalkulasi jumlah zakat secara otomatis.
 
 ## 📸 Antarmuka Aplikasi
 *(Tambahkan URL gambar/screenshot aplikasi Anda di sini. Anda bisa *drag-and-drop* gambar langsung ke editor GitHub untuk mendapatkan linknya)*
-![Dashboard Screenshot] ![Uploading Screenshot 2026-09-20 202127.png…]()
+![Dashboard Screenshot] <img width="1883" height="901" alt="Screenshot 2026-09-20 202127" src="https://github.com/user-attachments/assets/df4006ca-82dc-4e38-9efc-34645de2e7cc" />
+
 
 
 
